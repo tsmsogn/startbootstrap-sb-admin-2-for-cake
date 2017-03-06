@@ -95,5 +95,5 @@ echo "?>\n";
 		</div>
 		<!-- /.panel -->
 	</div>
-	<!-- /.col-lg-6 -->
+	<!-- /.col-lg-12 -->
 </div>
